@@ -1,0 +1,49 @@
+@media screen and (min-width: 200px) and (max-width: 640px) {
+  #carouselExampleIndicators{
+    width: 100%;
+    height: 410px;
+  }
+  aside{
+  	width: 20%;
+  }
+}
+.col-sm{
+	padding-right: 5%;
+}
+
+#nav{
+	margin-top: 1%;
+	margin-bottom: 1%;
+	border-style: solid;
+	border-width: thin;
+	border-radius: 5px;
+	border-color: #EBEBEB;
+	box-shadow: 0px 10px 40px rgb(220, 220, 220); 
+}
+
+.rond{
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	background-color: grey;
+}
+
+aside{
+	border-style: solid;
+	border-width: 1px;
+	margin-left: 3%;
+}
+
+#titre{
+	background-color: blue;
+	margin-right: -17px;
+	margin-left: -17px;
+}
+
+.Classement{
+	margin-top: 3%;
+}
+
+.contener{
+
+}
